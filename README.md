@@ -1,2 +1,2 @@
 # dice-game
-Conflict resolution has never been easier. Just role the dice!
+Conflict resolution has never been easier. Just roll the dice!
